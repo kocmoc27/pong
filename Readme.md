@@ -1,0 +1,1 @@
+По примеру взятому отсюда https://developer.mozilla.org/ru/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript написал игру в MVP-стиле  с целью знакомства с инструметом canvas.

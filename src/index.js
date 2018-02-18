@@ -1,0 +1,8 @@
+import View from './view';
+import Model from './model';
+import Controller from './controller';
+import Data from './data';
+
+const model = new Model();
+const view = new View();
+const controller = new Controller(model, view, Data);
